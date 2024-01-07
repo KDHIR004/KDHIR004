@@ -1,6 +1,6 @@
 # 👩‍💻Kirti Dhir -Hons Computer Science Major at York University👩‍💻
 
-Welcome to my GitHub space! I am Kirti Dhir, a passionate computer science enthusiast pursuing an honors degree at York University. 🚀
+Welcome to my GitHub space! I am Kirti Dhir, a passionate computer science enthusiast pursuing an hons degree at York University.🚀
 
 I thrive on the excitement of turning complex problems into elegant solutions. My journey in the world of computer science has been a thrilling exploration of algorithms, data structures, and the art of coding. As a CS honors major, I constantly seek new challenges to expand my knowledge and refine my skills.
 
